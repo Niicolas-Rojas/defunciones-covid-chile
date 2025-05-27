@@ -44,6 +44,7 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
    docker-compose -f docker/docker-compose.yml up -d
 4. Ejecuta en la carpeta scripts el archivo python
    ```bash
+   cd /scripts
    python ETL.py
 6. Puedes abrir el archivo de power bi, o conectarte a la base de datos de postgresql local.
 
