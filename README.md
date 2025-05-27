@@ -42,7 +42,7 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
 3. Ejecuta el contenedor de PostgreSQL:
    ```bash
    docker-compose -f docker/docker-compose.yml up -d
-4. Ejecuta el script de "ETL.py"
+4. Ejecuta en la carpeta scripts el archivo python
    ```bash
    python ETL.py
 6. Puedes abrir el archivo de power bi, o conectarte a la base de datos de postgresql local.
@@ -54,6 +54,6 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
 **Nicolás Rojas Díaz**  
 📧 nicord2002@gmail.com  
 📱 +56 9 4934 3967  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/nicolas-rojas-diaz-8b5644247/))  
-📂 [GitHub]([https://github.com/tuusuario](https://github.com/Niicolas-Rojas))
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-rojas-diaz-8b5644247/)  
+📂 [GitHub](https://github.com/Niicolas-Rojas)
 
