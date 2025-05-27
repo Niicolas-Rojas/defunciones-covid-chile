@@ -26,11 +26,11 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
 
 ## 🔍 Visualizaciones destacadas
 
-### 📈 Defunciones por Año y Mes
+### 📈 Analisis de defunciones
 ![Evolución Temporal](images/dashboard1.png)
 
-### 👥 Defunciones por Edad y Sexo
-![Distribución por Edad y Sexo](images/dashboard2.png)
+### 👥 Defunciones por Región
+![Distribución por Región](images/dashboard2.png)
 
 ---
 
