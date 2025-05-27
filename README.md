@@ -46,3 +46,14 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
    ```bash
    python ETL.py
 6. Puedes abrir el archivo de power bi, o conectarte a la base de datos de postgresql local.
+
+---
+
+## 👤 Autor
+
+**Nicolás Rojas Díaz**  
+📧 nicord2002@gmail.com  
+📱 +56 9 4934 3967  
+🔗 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/nicolas-rojas-diaz-8b5644247/))  
+📂 [GitHub]([https://github.com/tuusuario](https://github.com/Niicolas-Rojas))
+
