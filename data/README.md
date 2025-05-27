@@ -10,7 +10,7 @@ Este archivo contiene el dataset oficial de defunciones asociadas a COVID-19 en 
 
 ## 📄 Archivo incluido
 
-- `defunciones_covid19_2020_2024.csv`: archivo CSV separado por punto y coma (`;`), codificado en `ISO-8859-1`.
+- `defunciones_covid19_2020_2024.csv`: archivo CSV separado por punto y coma (`;`).
 
 ## ℹ️ Notas
 
