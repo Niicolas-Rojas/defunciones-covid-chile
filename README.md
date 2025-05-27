@@ -37,8 +37,12 @@ Este proyecto tiene como objetivo procesar, transformar y visualizar datos de de
 ## ▶️ ¿Cómo ejecutar este proyecto?
 
 1. Clona este repositorio.
-2. Ejecuta el contenedor de PostgreSQL:
+2. ```bash
+   pip install -r requirements.txt
+3. Ejecuta el contenedor de PostgreSQL:
    ```bash
    docker-compose -f docker/docker-compose.yml up -d
-3. Ejecuta el script de "ETL.py"
-4. Puedes abrir el archivo de power bi, o conectarte a la base de datos de postgresql local.
+4. Ejecuta el script de "ETL.py"
+   ```bash
+   python ETL.py
+6. Puedes abrir el archivo de power bi, o conectarte a la base de datos de postgresql local.
